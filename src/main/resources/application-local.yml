@@ -1,7 +1,7 @@
 spring:
   datasource:
-    username: root
-    password: root
+    username: admin
+    password: Nag15188
     url: jdbc:mysql://mysql.cjyk62o4exjc.ap-south-1.rds.amazonaws.com:3306/BrinkerIncUser
 eureka:
   client:
